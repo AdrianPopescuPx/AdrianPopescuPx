@@ -16,4 +16,4 @@
 
 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianpopescupx&langs_count=10&theme=tokyonight)]()
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpopescupx&show_icons=true&theme=dark&title_color=ff7b00&text_color=0fefff&hide_border=true&locale=en" alt="adrianpopescupx" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianpopescupx&show_icons=true&theme=dark&title_color=ff7b00&text_color=0fefff&hide_border=true&locale=en" alt="adrianpopescupx" />
