@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Adrian Popescu</h1>
 <h3 align="center">I'm a Computer Science Student and Freelancer!</h3>
 
-- 🔭 I’m currently learning **React, Angular and Python**
+- 🔭 I’m currently learning **React and Spring**
 
 - 🤝 I’m looking **for collaboration and technology development opportunities!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/adrianpopescupx" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/adrianghpopescu" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="adrianpopescupx" height="30" width="40" /></a>
     <a href="https://instagram.com/adrianpopescupx" target="blank"><img align="center"
